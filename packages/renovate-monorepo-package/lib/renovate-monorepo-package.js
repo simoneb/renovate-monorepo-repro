@@ -1,7 +1,7 @@
-'use strict';
+"use strict"
 
-module.exports = renovateMonorepoPackage;
+module.exports = renovateMonorepoPackage
 
 function renovateMonorepoPackage() {
-    // TODO
+  return "hello world"
 }
