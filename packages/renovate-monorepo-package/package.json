@@ -1,0 +1,27 @@
+{
+  "name": "renovate-monorepo-package",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Simone Busoli <simone.busoli@gmail.com>",
+  "homepage": "https://github.com/simoneb/renovate-monorepo-repro#readme",
+  "license": "ISC",
+  "main": "lib/renovate-monorepo-package.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simoneb/renovate-monorepo-repro.git",
+    "directory": "packages/renovate-monorepo-package"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/simoneb/renovate-monorepo-repro/issues"
+  }
+}
