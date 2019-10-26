@@ -3,5 +3,5 @@
 module.exports = renovateMonorepoPackage
 
 function renovateMonorepoPackage() {
-  return "hello world 1"
+  return "hello world 2"
 }
